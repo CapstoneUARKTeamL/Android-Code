@@ -2,4 +2,31 @@
     <string name="app_name">Capstone</string>
     <string name="action_settings">Settings</string>
     <string name="OnTime">Settings</string>
+
+    <string name="BlueRouteID">8</string>
+    <string name="BlueReducedRouteID">22</string>
+    <string name="BrownRouteID">12</string>
+    <string name="Brown_B_B_BBQ_RouteID">105</string>
+    <string name="GrayRouteID">99</string>
+    <string name="GreenRouteID">71</string>
+    <string name="Green_Detoured_RouteID">163</string>
+    <string name="GreenReducedRouteID">23</string>
+    <string name="GreenReduced_Winter_RouteID">145</string>
+    <string name="OrangeRouteID">92</string>
+    <string name="PurpleRouteID">19</string>
+    <string name="PurpleReducedRouteID">24</string>
+    <string name="PurpledReduced_Winter_RouteID">141</string>
+    <string name="RedExpress_T_R_RouteID">106</string>
+    <string name="Red_RedReducedRouteID">1</string>
+    <string name="Route56RouteID">21</string>
+    <string name="TanRouteID">93</string>
+    <string name="TanReducedRouteID">15</string>
+    <string name="YellowRouteID">16</string>
+    <string name="Blue2016RouteID">161</string>
+    <string name="Brown2016RouteID">152</string>
+    <string name="Gray2016RouteID">159</string>
+    <string name="Pink2016RouteID">153</string>
+    <string name="Purple2016RouteID">154</string>
+    <string name="TealRouteID">151</string>
+
 </resources>
